@@ -1,4 +1,4 @@
-import express,{Application,Request,Response,NextFunction, Router} from 'express';
+import express,{Application} from 'express';
 import cors, { CorsOptions } from 'cors';
 require('dotenv').config();
 
