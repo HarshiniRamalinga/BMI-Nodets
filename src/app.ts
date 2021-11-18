@@ -1,5 +1,4 @@
 import express,{Application} from 'express';
-import cors, { CorsOptions } from 'cors';
 require('dotenv').config();
 
 
